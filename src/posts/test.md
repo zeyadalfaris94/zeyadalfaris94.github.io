@@ -4,4 +4,4 @@ date: "2019-12-29"
 title: "Hi"
 ---
 
-Hi, This is your first post.
+Today we will talk about binary search
